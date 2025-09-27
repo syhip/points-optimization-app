@@ -1,0 +1,82 @@
+{
+  "timestamp": "2025-09-27T14:44:34.852091",
+  "summary": {
+    "total_tests": 6,
+    "passed_tests": 6,
+    "failed_tests": 0,
+    "success_rate": 100.0
+  },
+  "test_results": [
+    {
+      "test_name": "首页访问",
+      "success": true,
+      "message": "成功访问应用首页",
+      "timestamp": "2025-09-27T14:43:54.643703",
+      "error": null
+    },
+    {
+      "test_name": "登录测试",
+      "success": true,
+      "message": "成功登录并跳转到主页",
+      "timestamp": "2025-09-27T14:44:20.560944",
+      "error": null
+    },
+    {
+      "test_name": "首页功能展示",
+      "success": true,
+      "message": "首页包含 9 个关键功能元素",
+      "timestamp": "2025-09-27T14:44:20.580432",
+      "error": null
+    },
+    {
+      "test_name": "支付方式管理页面",
+      "success": true,
+      "message": "页面正常加载",
+      "timestamp": "2025-09-27T14:44:22.734765",
+      "error": null
+    },
+    {
+      "test_name": "积分历史页面",
+      "success": true,
+      "message": "页面正常加载",
+      "timestamp": "2025-09-27T14:44:25.100533",
+      "error": null
+    },
+    {
+      "test_name": "商家推荐页面",
+      "success": true,
+      "message": "页面正常加载",
+      "timestamp": "2025-09-27T14:44:27.412836",
+      "error": null
+    },
+    {
+      "test_name": "个人资料页面",
+      "success": true,
+      "message": "页面正常加载",
+      "timestamp": "2025-09-27T14:44:29.932641",
+      "error": null
+    },
+    {
+      "test_name": "个人设置页面",
+      "success": true,
+      "message": "页面正常加载",
+      "timestamp": "2025-09-27T14:44:32.459393",
+      "error": null
+    },
+    {
+      "test_name": "交互元素测试",
+      "success": true,
+      "message": "找到 4 个可交互元素",
+      "timestamp": "2025-09-27T14:44:34.849744",
+      "error": null
+    },
+    {
+      "test_name": "控制台错误检查",
+      "success": true,
+      "message": "未发现严重的控制台错误",
+      "timestamp": "2025-09-27T14:44:34.851938",
+      "error": null
+    }
+  ],
+  "errors_found": []
+}
